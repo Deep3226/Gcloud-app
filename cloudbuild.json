@@ -17,4 +17,4 @@
     ],
     "timeout": "1200s",
     "logsBucket": "gs://gcp-cloud-deep-2410-logs"
-}
+} 
